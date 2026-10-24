@@ -1,0 +1,15 @@
+# Rust build artifacts
+target/
+**/target/
+
+# Cargo
+Cargo.lock
+**/Cargo.lock
+
+# Editor/OS files
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+.vscode/
