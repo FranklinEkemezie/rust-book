@@ -1,0 +1,8 @@
+[workspace]
+resolver = "1"
+members = [
+    "hello_cargo",
+    "guessing_game"
+, "variables", "functions", "branches", "loops", "temperature-converter", "fibonacci-numbers", "twelve-days-of-christmas", "ownership", "references", "slices", "ch_05_01_structs", "ch_05_02_rectangles",
+
+]
