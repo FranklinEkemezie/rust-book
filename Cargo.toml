@@ -1,8 +1,18 @@
 [workspace]
 resolver = "1"
 members = [
-    "hello_cargo",
-    "guessing_game"
-, "variables", "functions", "branches", "loops", "temperature-converter", "fibonacci-numbers", "twelve-days-of-christmas", "ownership", "references", "slices", "ch_05_01_structs", "ch_05_02_rectangles",
-
+    "ch_01_02_hello_cargo",
+    "ch_02_01_guessing_game",
+    "ch_03_01_variables",
+    "ch_03_02_functions",
+    "ch_03_03_branches",
+    "ch_03_04_loops",
+    "ch_03_05_temperature-converter",
+    "ch_03_06_fibonacci-numbers",
+    "ch_03_07_twelve-days-of-christmas",
+    "ch_04_01_ownership",
+    "ch_04_02_references",
+    "ch_04_03_slices",
+    "ch_05_01_structs",
+    "ch_05_02_rectangles",
 ]
